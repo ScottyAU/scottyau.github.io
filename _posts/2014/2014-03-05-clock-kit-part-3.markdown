@@ -21,7 +21,7 @@ So the way I did it was to first plug in all 4 jumper leads (VCC, GND, RX, TX). 
 
 In the ISP software now hit the "Check MCU" button, and the software should say waiting.  Then plug the GND jumper back in and you should see some info about the MCU type and F/W version show up like this:
 
-![LED Clock Pt3 1](/images/LED Clock Pt3 1.png)
+![LED Clock Pt3 1](/images/LED Clock Part 3 1.png)
 
 If when you plug in the GND jumper you don't get the above and the software still says waiting, switch the RX and TX cables over and try again.
 
@@ -37,11 +37,11 @@ So to do this, hit the "Open Code File" button and select the HEX file you wish 
 
 You should see MCU being programmed and when finished you should see "Complete !" like this:
 
-![LED Clock Pt3 2](/images/LED Clock Pt3 2.png)
+![LED Clock Pt3 2](/images/LED Clock Part 3 2.png)
 
 So I'd successfully flashed the HEX file I had, and this is what the clock looked like:
 
-![LED Clock Pt3 3](/images/LED Clock Pt3 3.jpg)
+![LED Clock Pt3 3](/images/LED Clock Part 3 3.jpg)
 
 That looks strangely correct to me.  So I power cycled the clock to confirm and sure as anything - IT WORKED!!!  It would appear that the seller did have the correct version of the code for this clock compiled - but hadn't flashed that version to the MCU.  
 
@@ -49,6 +49,6 @@ I spent a little bit of time figuring out how to set the time with the remote.  
 
 I then put the battery in, and put the case on:
 
-![LED Clock Pt3 4](/images/LED Clock Pt3 4.jpg)
+![LED Clock Pt3 4](/images/LED Clock Part 3 4.jpg)
 
 Pretty stocked with the outcome.  Nice learning exercise and good practice in SMD soldering, and a little bit of flashing a MCU.  Time for the next project.

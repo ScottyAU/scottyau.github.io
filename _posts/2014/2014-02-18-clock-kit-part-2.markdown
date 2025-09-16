@@ -49,11 +49,11 @@ On the front of the board (the side with the display) everything is pretty much 
 
 While soldering the display blocks in I powered it up to check each one, and they were working - but displaying some weird characters.  All segments of the display blocks did work though so I cracked on and soldered all 6 display blocks:
 
-![LED Clock Pt2 1](/images/LED Clock Pt2 1.jpg)
+![LED Clock Pt2 1](/images/LED Clock Part 2 1.jpg)
 
 Once complete, I plugged it in and got this:
 
-![LED Clock Pt2 2](/images/LED Clock Pt2 2.jpg)
+![LED Clock Pt2 2](/images/LED Clock Part 2 2.jpg)
 
 It took a minute to realise the display was inverted.  Instead of turning on the segments to display a digit, it was turning on the inverse segments.  So the above should read 00:02:09
 

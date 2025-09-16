@@ -26,7 +26,7 @@ I came home and hooked up the new hose, pulled the battery off charge and connec
 
 Once running she seemed ok - until I had a closer look and noticed fuel leaking from the VRO pump.  Bummer.  Most complaints about VRO pumps all revolve around the oiling part of the pump not working 100% or failing altogether.  My VRO though was leaking fuel.  It was still pumping fuel and oil just fine - with the engine running well.  Having a closer look at the VRO, it was quite obvious that the leak wasn't new, and someone had previously had a go at sealing it up:
 
-![Im on a boat 1 1](/images/Im on a boat 1 1.jpg)
+![Im on a boat 1 1](/images/Im on a boat Part 1 1.jpg)
 
 Unfortunately the pump housing is plastic.  If it was metal you'd just be looking for a seal kit to rebuild the pump, but as you can see in the photo above the plastic housing of the pump is cracked.  So there's no chance of fixing it - someone's already tried that.  
 
@@ -61,7 +61,7 @@ I headed back online to look for a replacement pickup/float.  At least $200.  Di
 
 I checked eBay, and BAM.  A full (that's right full - not just the pickup) remote oil kit (old new stock), about 20 minutes for home - for $15!!!  I couldn't get down there to pick it up quick enough:
 
-![Im on a boat 1 2](/images/Im on a boat 1 2.jpg)
+![Im on a boat 1 2](/images/Im on a boat Part 1 2.jpg)
 
 Fitting this guy up was pretty straight forward.  The hose and two wires needed to be trimmed as they were both massively too long at factory length.  Once hooked up - I filled it with some nice new marine 2 stroke oil (I primed the oil line as best I could when hooking it up) and turned the key to on - no warning buzzer!  So I started the outboard and again - no buzzer.  She runs pretty smooth. 
 
@@ -71,7 +71,7 @@ I should mention that somewhere in there while trying to find the problem with t
 
 So last problem - the remote control.  It was broken and held together with cable ties when we got it.  When I was at the wreckers, I mentioned it to the bloke there and he knew straight away what I was talking about.  The actual throttle arm is metal, so its fine, but there is a plastic piece on one side of the arm that holds the tilt switch at the top.  This piece just snaps off after a while due to it's design.  Given this - he said second hand non-broken replacements don't exist and that I'd have to get one new.  $70.  I told him I'd think about it and went home and used some duct tape:
 
-![Im on a boat 1 3](/images/Im on a boat 1 3.jpg)
+![Im on a boat 1 3](/images/Im on a boat Part 1 3.jpg)
 
 One other part that I was keen to get was the pulse limiter that is mentioned in the external VRO link:  
 
@@ -81,8 +81,8 @@ No surprise that mine didn't have the blue limiter installed.  I wanted to make 
 
 Once the parts arrived I set about installing both.   The pulse limiter install I didn't really get a decent picture of (it's hard when your hands are covered in grease).  I did get a couple of pics of the remote control though (white part is metal, black part is plastic):
 
-![Im on a boat 1 4](/images/Im on a boat 1 4.jpg)
+![Im on a boat 1 4](/images/Im on a boat Part 1 4.jpg)
 
-![Im on a boat 1 5](/images/Im on a boat 1 5.jpg)
+![Im on a boat 1 5](/images/Im on a boat Part 1 5.jpg)
 
 All done.  I've pumped up the tyres on the trailer and she's good to go.  We've got a long weekend coming up - so fingers crossed I should be able to get some time on the water to put the old girl through her paces.  Bring on Summer!
