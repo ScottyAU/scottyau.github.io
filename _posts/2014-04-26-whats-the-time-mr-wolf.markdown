@@ -2,7 +2,7 @@
 layout: post
 title:  "What's the time Mr Wolf?"
 date:   2014-04-26 16:50:00 +1000
-tags:   Electronics, Programming, Learning
+tags:   Electronics, Programming, Learning, Clocks
 ---
 
 So for the last couple of months the bit of bench time I've been able to get has all been spent on the edx course I mentioned in my previous post.  There was quite a bit of content to get through before the course wrapped up, so to get it done in time I wasn't letting myself play with any other projects or bits.  I was however ordering bits and pieces here and there which have slowly started to arrive.  Now that the course is done I've got time to play with what's arrived!

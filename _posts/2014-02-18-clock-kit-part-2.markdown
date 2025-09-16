@@ -2,7 +2,7 @@
 layout: post
 title:  "Clock kit Part 2"
 date:   2014-02-18 21:35:00 +1000
-tags:   LED Clock, Electronics
+tags:   Clocks, Electronics
 ---
 
 With the schematic in hand I was itching to get my solder on.  The board itself appears to be somewhat generic, in that not all components labelled on the board need to be fit for this clock to be complete.  Using the schematic and the parts received list we were able to figure out what needed to go where.

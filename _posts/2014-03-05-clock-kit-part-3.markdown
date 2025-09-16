@@ -2,7 +2,7 @@
 layout: post
 title:  "Clock kit Part 3"
 date:   2014-03-05 19:25:00 +1000
-tags:   LED Clock, Electronics
+tags:   Clocks, Electronics
 ---
 
 So after the last post, I ordered a USB-FTDI adapter and some appropriate jumper cables so I could reprogram the STC12C5620AD.  They took about a week to show up - which brings me to this post.
