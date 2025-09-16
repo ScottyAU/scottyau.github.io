@@ -2,7 +2,7 @@
 layout: post
 title:  "Clock kit Part 1"
 date:   2014-02-17 18:36:00 +1000
-categories: LED Clock, Electronics
+tags:   LED Clock, Electronics
 ---
 
 So I decided I wanted to some sort of small digital desk clock to build.  After looking around people seemed very impressed with clocks using the [DS3231](http://www.maximintegrated.com/datasheet/index.mvp/id/4627) chip, so I googled around for clock kits using that chip and came across [this kit](http://www.aliexpress.com/store/product/Diy-kit-ds3231-high-accuracy-infrared-remote-control-clock-mcu-led-electronic-clock/116554_1238368501.html) from Ali Express.
