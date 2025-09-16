@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Bench Supply"
-date:   2014-08-07 19:03:00 +1000
+date:   2014-07-08 19:03:00 +1000
 tags:   Electronics, Equipment
 ---
 
