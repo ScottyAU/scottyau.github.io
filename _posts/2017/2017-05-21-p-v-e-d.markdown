@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "P.V.E.D."
+date:   2017-05-21 04:54:00 +1000
+tags:   Electronics, Programming, Learning
+---
+
+For a while now I have wanted to build the P.V.E.D as designed by Alain Iamburg.  There is a [GitHub](https://github.com/alainiamburg/PVED) with everything you need to get started, and a series of [blog posts](https://www.optiv.com/blog/demystifying-hardware-security-part-i) explaining a couple of different ways you could then approach the problem.
+
+I've had the bits needed to build one for quite a while - but finally got around to building it.
+
+![PVED 1](/images/PVED 1.jpg)
+
+![PVED 2](/images/PVED 2.jpg)
+
+![PVED 3](/images/PVED 3.jpg)
+
+![PVED 4](/images/PVED 4.jpg)
+
+I'm thinking about maybe trying to find a half decent case and doing either this thing on perf board or maybe even having a crack at a small PCB!  Time will tell...
