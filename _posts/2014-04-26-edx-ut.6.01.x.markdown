@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "edx UT.6.0.1.x"
+date:   2014-03-23 20:38:00 +1000
+tags:   Electronics, Programming, Learning
+---
+
+So for the last couple of months now I have been taking the edx course [UT.6.01x: Embedded Systems](https://www.edx.org/course/utaustinx/utaustinx-ut-6-01x-embedded-systems-1172).  Like all edx courses it's delivered 100% online.  The course does a great job of teaching the fundamentals of embedded design, and is built around a Texas Instruments Launchpad.  If you haven't used one of the TI Launchpad's before I'd highly recommend taking a squiz.  They're super cheap for what they are and after taking the UT course I feel I've got a somewhat ok understanding now of the processor used for the course.  Setting registers, performing I/O - it's all covered.
+
+All of the labs are hands on.  They can be completed in simulation using just the free (Trial Licence) Keil IDE software, or can make use of the TI launchpad and a few common components.  The work the UT guys did to develop the grader plugin for both simulation grading in the software debugger as well as debugging using the actual TI Launchpad was awesome!  So even though the course is an online only offering, you can still do all of the hands on labs and get a grade based on how well your solution performs.
+
+Having just completed the course, I throughly enjoyed this one - just like the last couple of edx courses I've taken.  If you're looking for a (free) way to learn some stuff in a bit more of a structured format take a look at edx (and maybe this course).
