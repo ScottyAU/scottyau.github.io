@@ -5,7 +5,7 @@ date:   2014-07-08 19:03:00 +1000
 tags:   Electronics, Equipment
 ---
 
-I finally pulled the trigger and bought a bench power supply.  Up until this point I have just been using the [ATX breakout board]({% post_url 2014-03-23-atx-bench-supply %}).  I've been looking around for a while, trying to way up price vs features and finally settled on the [Siglent SPD3303D](http://www.siglent.com/en/product/detail5.aspx?id=100000014858258&nodecode=119008005).
+I finally pulled the trigger and bought a bench power supply.  Up until this point I have just been using the [ATX breakout board]({% post_url 2014/2014-03-23-atx-bench-supply %}).  I've been looking around for a while, trying to way up price vs features and finally settled on the [Siglent SPD3303D](http://www.siglent.com/en/product/detail5.aspx?id=100000014858258&nodecode=119008005).
 
 ![New Bench Supply 1](/images/New Bench Supply 1.jpg)
 

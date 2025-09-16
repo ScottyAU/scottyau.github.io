@@ -30,4 +30,4 @@ I then went on and walked through part 3 and 4.  I managed to write most of the 
 
 ![Bare Bones ATMega168 2](/images/Bare Bones ATMega168 2.jpg)
 
-Most of the content in these AVR tutorials was a lot easier to digest after doing the edx course that I [previously mentioned]({% post_url 2014-04-26-edx-ut.6.01.x %}).  
+Most of the content in these AVR tutorials was a lot easier to digest after doing the edx course that I [previously mentioned]({% post_url 2014/2014-04-26-edx-ut.6.01.x %}).  
