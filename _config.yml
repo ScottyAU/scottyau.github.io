@@ -23,7 +23,7 @@ email: contact@scotty.id.au
 description: >- # this means to ignore newlines until "baseurl:"
   Random bits of everything - usually related to electronics or amateur radio of some sort.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scotty.id.au" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ScottyAU
 
 # Build settings
