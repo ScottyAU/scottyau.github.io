@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "It's Alive!"
+date:   2017-07-11 21:02:00 +1000
+tags:   Electronics, Retro Computers, Repair
+---
+
+So I have a new toy and it's amazing!  I've wanted a desoldering tool for a long time but could never really justify the cost for the tiny amount of use it would get.  This Commodore 64 was what made me pull the trigger and so I ordered a [Hakko FR-300](https://www.hakko.com/english/products/hakko_fr300.html), which finally arrived yesterday:
+
+![Its Alive 1](/images/Its Alive 1.jpg)
+
+It's a really nice little bit of kit!  I really love my Hakko soldering iron so figured this would be just as good.  It did not disappoint.  It made VERY quick work of desoldering the PLA IC.  It came out first go:
+
+![Its Alive 2](/images/Its Alive 2.jpg)
+
+While I was waiting for both the replacement (new old stock) PLA and the Hakko FR300 I ordered to arrive, I also ordered a few other bits and pieces in anticipation of getting the C64 up and running.  Including (but not limited to) a complete socket set and a set of heatsinks:
+
+![Its Alive 3](/images/Its Alive 3.jpg)
+
+My plan is that anything I have to replace will be socketed.  At this stage I'm not sure I will proactively socket anything that doesn't need to be replaced (but if the urge to use my new FR300 becomes to great I might change my mind). So I picked out a 28 pin socket from the set and soldered it in:
+
+![Its Alive 4](/images/Its Alive 4.jpg)
+
+Once that was done it was just a matter of fitting the replacement PLA:
+
+![Its Alive 5](/images/Its Alive 5.jpg)
+
+![Its Alive 6](/images/Its Alive 6.jpg)
+
+The drop of what looks like liquid on the replacement PLA was put there by the original stockist.  The eBay seller I bought it off said the whole batch they bought had that mark - and the stockist put it on there and used it to keep track of their stock for returns/warranty etc.  Once that was done, all that was left was to cross my fingers and fire it up:
+
+![Its Alive 7](/images/Its Alive 7.jpg)
+
+Boom!  Much better than a blank screen.  As a side note a great point of reference I found for troubleshooting C64 issues based on screen output is [here](http://derbian.webs.com/c64diag/).  At this point I tried the usual:
+
+```
+10 print "Hello World!"
+20 goto 10
+run
+```
+
+Unfortunately though the keyboard doesn't function super well.  A lot of the keys took multiple presses to work - the spacebar being the worst offender that barely works at all which made typing out "Hello World!" impossible.  So from here I now intend to do the following:
+
+ - Replace the electrolytic capacitors.  I have new caps for all 6 on the board.  While none seem to have issues right now its a very cheap and easy preventative bit of maintenance.  
+ - Heatsink all of the major ICs to prolong the life of the already 30 year old chips.
+ - Disassemble and clean the keyboard.  
+ - Clean the cassette and user port connectors on the main board.
+ - Run the test cart I have
+
+Once that's all done, I shouldn't have to touch the mainboard hardware wise unless something else breaks.  At that point I have some "extra" bits of hardware for the C64 to test/fix.  One step at a time though!
