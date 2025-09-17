@@ -34,3 +34,7 @@ And it was then time to have a go at the nixies.  I was a little nervous with th
 I powered the clock on at that point and to my surprise it worked exactly as expected.  When you first power the clock up it goes through a test cycle that showed that all tubes were 100% functional.  I then pulled the protective film off all of the acrylic and put the case together.  And that's it!
 
 ![Nixie Clock 8](/images/Nixie Clock 8.jpg)
+
+Here's a short video of the clock starting up:
+
+<p><video width="640" height="360" preload controls><source src="/videos/Nixie%20Clock.mp4" type="video/mp4"></video></p>
