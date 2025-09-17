@@ -1,0 +1,74 @@
+---
+layout: post
+title:  "1541 Disk Drive"
+date:   2017-08-02 21:55:00 +1000
+tags:   Electronics, Retro Computers, Repair
+---
+
+So what have I been doing since the last post - playing some solid C64 that's what.  It hasn't skipped a beat since I put it back together at the end of the last post.  I've been playing some games, writing some BASIC and just generally getting reacquainted with the C64.  I haven't stopped on the hardware side of things though.  Like I mentioned previously I've bought a few accessories, and now the system is running it's time to work through them.  The first being this guy:
+
+![1541 Disk Drive 1](/images/1541 Disk Drive 1.jpg)
+
+![1541 Disk Drive 2](/images/1541 Disk Drive 2.jpg)
+
+It's a beast of a thing!  Just like the C64 itself, instead of paying top dollar for something in mint condition I took a punt on something that was listed as "found in storage - sold as is".  The unit looked like it had been sitting on a shelf in a garage for a long time.  Instead of firing it up - I opened it up to have a look before plugging it in:
+
+![1541 Disk Drive 3](/images/1541 Disk Drive 3.jpg)
+
+![1541 Disk Drive 4](/images/1541 Disk Drive 4.jpg)
+
+It was dirty - but actually in pretty good condition.  I kept pulling it apart so I could give it all a good clean and a closer inspection:
+
+![1541 Disk Drive 5](/images/1541 Disk Drive 5.jpg)
+
+![1541 Disk Drive 6](/images/1541 Disk Drive 6.jpg)
+
+![1541 Disk Drive 7](/images/1541 Disk Drive 7.jpg)
+
+![1541 Disk Drive 8](/images/1541 Disk Drive 8.jpg)
+
+All parts got a good clean, all dust removed and a rub with isopropyl alcohol where needed.  One of the other key things I picked up watching a bunch of repair videos on YouTube, was to make sure you put some lubricant on any of the mechanical parts that move.  So I did that too.  I also gave the head a very good clean with isopropyl alcohol:
+
+![1541 Disk Drive 9](/images/1541 Disk Drive 9.jpg)
+
+It was at this point that I had to wait again - this time for a replacement belt to arrive.  While the one that was on there didn't seem terrible, it was also only a couple of dollars for a replacement.  So I placed my order and waited (and played some games while I waited).  Then it arrived:
+
+![1541 Disk Drive 10](/images/1541 Disk Drive 10.jpg)
+
+That's the new belt inside the old one...  Fitted the replacement and put it all back together:
+
+![1541 Disk Drive 11](/images/1541 Disk Drive 11.jpg)
+
+![1541 Disk Drive 12](/images/1541 Disk Drive 12.jpg)
+
+![1541 Disk Drive 13](/images/1541 Disk Drive 13.jpg)
+
+It was at this point I plugged it in.  First without the C64 connected, and as expected the drive powered up and ran for a second or two.  So far so good.  So I turned it off and  connected it up to the C64.  Turned the drive on again, then turned on the C64 - drive light on for a second or two like it should be.  By this stage I had also received the set of 25 random used disks I purchased for next to nothing off eBay.  I inserted on of the disks, and typed:
+
+`LOAD "$",8`
+
+Once that finished I typed:
+
+`LIST`
+
+And low and behold I got a directory listing that matched the notes scribbled on the label of the disk.  It was at this point it was time to test the drive a little more using this guy:
+
+![1541 Disk Drive 14](/images/1541 Disk Drive 14.jpg)
+
+It's a 1541 test cart - info is [here](http://blog.worldofjani.com/?p=2180).  I ran through various tests from the cart menu - all passed:
+
+![1541 Disk Drive 15](/images/1541 Disk Drive 15.jpg)
+
+![1541 Disk Drive 16](/images/1541 Disk Drive 16.jpg)
+
+At this point I turned off the C64, pulled out the test cart and tried a few more disks.  All gave me directory listings without issue - but some failed to run, looking at the titles I think some of them may actually beApple II software which is why they won't load.
+
+There was only one thing left to complete this bit of work - setup up my new (old stock) disk box:
+
+![1541 Disk Drive 17](/images/1541 Disk Drive 17.jpg)
+
+![1541 Disk Drive 18](/images/1541 Disk Drive 18.jpg)
+
+![1541 Disk Drive 19](/images/1541 Disk Drive 19.jpg)
+
+I also got a box of new (old stock) disks cheap to play around with as well.  Done!
