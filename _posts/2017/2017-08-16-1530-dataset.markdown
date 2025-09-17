@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "1530 Dataset"
+date:   2017-08-16 20:57:00 +1000
+tags:   Electronics, Retro Computers, Repair
+---
+
+After getting the 1541 sorted, I thought "What C64 setup would be complete without a dataset?"  They are dirt cheap on eBay and I managed to pick one up with its original box no less for little more than the cost of postage.  The seller even confirmed before sending it that he had connected it up to his C64 and loaded a tape and it had worked first go.  It turned up pretty quickly too:
+
+![1530 Dataset 1](/images/1530 Dataset 1.jpg)
+
+While looking around to see what common faults these guys had prior to it arriving I was surprised to see that it was mainly just the rubber belts (if anything) that fail, with the head, capstan and pinch rollers needing cleaning as well.  There's one belt for the main drive, and one for the little counter on the front.  I ordered one of each as part of another order and waited for them to arrive.  Once they did, it was time to crack this guy open and have a look:
+
+![1530 Dataset 2](/images/1530 Dataset 2.jpg)
+
+![1530 Dataset 3](/images/1530 Dataset 3.jpg)
+
+These things are super simple - and thus quite easy to take apart.  Four screws on the bottom and the unit splits in half, a few more screws and the drive assembly can be removed from the upper half of the plastic case:
+
+![1530 Dataset 4](/images/1530 Dataset 4.jpg)
+
+This unit was actually pretty clean inside with minimal dust and bits to remove.  I gave the head and rollers a good clean with isopropyl alcohol.  I then switched out the two belts.  The counter belt is on the "top", and the main drive belt is on the "bottom":
+
+![1530 Dataset 5](/images/1530 Dataset 5.jpg)
+
+![1530 Dataset 6](/images/1530 Dataset 6.jpg)
+
+I also applied a small amount of lube to all the moving parts just to make sure everything was good to go - taking care not to use too much, and not to get any on the belts.  I then put it all back together and plugged it in ready for a test:
+
+![1530 Dataset 7](/images/1530 Dataset 7.jpg)
+
+I got two original tapes off eBay - The Untouchables and Rampage.  I fired the C64 up, typed "load" and hit enter.  It asked me to hit play on the tape drive, which I did.  It then found the name of the program on the tape, I hit the Commodore key and it loaded the game.
+
+Boy did I forget how long it takes to load something from tape...  Using the 1541, even without the fastload is still fun.  I enjoy it.  It's part of the nostalgia.  Loading things from tape - not so much.  And just to rub it in - the first load of Untouchables crashed as soon as the actual gameplay started!  (It worked fine on the second load - after rewinding and starting again).
+
+![1530 Dataset 8](/images/1530 Dataset 8.jpg)
+
+Rampage loaded first go - it's as fun as I remember.  I'm not sure how much I will be using the dataset, but for the price/few minutes fixing it up, I'm still glad I got it.
+
+![1530 Dataset 9](/images/1530 Dataset 9.jpg)
