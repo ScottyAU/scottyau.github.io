@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "M100 REX"
+date:   2018-03-26 21:01:00 +1000
+tags:   Electronics, Retro Computers
+---
+
+My last post was about the SuperROM that I received with one of the M100's I purchased.  Now that my M100 was fully functional I started to look at what little extra bits might be fun to play with.  One of the major bits was the REX.  The summary of the [REX](http://bitchin100.com/wiki/index.php?title=REX) taken directly from the wiki:
+
+ - REX allows for storage and quick, easy switching between OPTION ROM images. Once the binary software images are loaded into REX, the user can easily jump back and forth between different applications.
+ - REX provides the ability to backup and swap working RAM images. At the press of a key, your current RAM contents are saved in REX. Furthermore, you can reload any saved RAM image for use. This creates a library of RAM images, which has a number of uses. This offers an easy way to quickly backup all RAM to flash, or switch between multiple snapshots of RAM. It is like having multiple laptops in the same case!
+ - REX includes an interface to TPDD devices (like TPDD, NADSbox, LaddieCon etc) for loading and saving binary images to external storage.
+ - REX modifies they way MENU displays the date, effectively fixing the Y2K 'bug'.
+
+I didn't realise how awesome the REX was until I got one:
+
+![M100 REX 1](/images/M100 REX 1.jpg)
+
+As stated above it adds both different OptionROMs which itself is pretty awesome as the M100 community has developed some pretty awesome custom OptionROMs for the M100.  The extra tools and updates/bug fixes in some of the OptionROMs blew me away.  The REX also adds some flash storage to backup and restore the flash contents of the M100.  Remembering the M100 has no persistent storage - if the main batteries and backup battery all go flat you lose all your data.  This is super handy.  I plugged it in and loaded it up.  The new menu looks pretty cool (with the correct date thanks to the Y2K fix):
+
+![M100 REX 2](/images/M100 REX 2.jpg)
+
+It's super easy thanks to the built in menu of the REX to change OptionROMs or save/restore multiple flash contents.  This little guy will come in super handy playing around with my M100 - thanks to all that worked to make the REX a reality!
