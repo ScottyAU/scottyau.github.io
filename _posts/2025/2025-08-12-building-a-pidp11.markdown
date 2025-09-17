@@ -47,7 +47,7 @@ With the switches done, I installed the Raspberry Pi on the back again for the l
 
 ![Building a PiDP11 10](/images/Building a PiDP11 10.jpg)
 
-I then mounted the board in the case (which again is amazing quality - picking up the theme here) and turned it on for another self test:
+I then mounted the board in the case (which again is amazing quality - picking up the theme here) and turned it on for another self test (it takes about 15 seconds to boot before you'll see the LEDs come on):
 
 <p><video width="640" height="360" preload controls><source src="/videos/Building a PiDP11 2.mp4" type="video/mp4"></video></p>
 
