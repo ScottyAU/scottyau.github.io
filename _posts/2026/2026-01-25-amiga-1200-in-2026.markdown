@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Amiga 1200 in 2026"
+date:   2026-01-25 12:00:00 +1000
+tags:   Electronics, Retro Computers
+---
+
+buying one
+
+initial test
+
+maintenance
+
+upgrades
+
+end state
