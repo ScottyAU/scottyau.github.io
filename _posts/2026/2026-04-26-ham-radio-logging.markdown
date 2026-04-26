@@ -39,7 +39,7 @@ For logging at home I looked at a lot more options, and here is my short summary
 - [N3FJP](https://www.n3fjp.com/) – Windows only (and paid)
 - [N1MM](https://n1mmwp.hamdocs.com/) – contest only logger
 
-I did go back and forth initally between HAMRS and WRL, settling on HAMRS.  It's simple and easy to use and does most of what I am after (would be nice to have auto export to eQSL and/or clublog).  It is paid after the free trail, and I like supporting the HAMS that built and maintain the software I use everytime I turn on my rig at home.  
+I did go back and forth initally between HAMRS and WRL, settling on HAMRS.  It's simple and easy to use and does most of what I am after (would be nice to have auto export to eQSL and/or clublog).  It is paid after the free trial, and I like supporting the HAMS that built and maintain the software I use everytime I turn on my rig at home.  
 
 My workflow currently looks like this (complicated I know):
 
