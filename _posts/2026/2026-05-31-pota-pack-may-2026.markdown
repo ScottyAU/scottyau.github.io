@@ -23,6 +23,7 @@ This is my main POTA setup that has hands down done the vast majority of my acti
  - [Signal Stuff Signal Stick](https://signalstuff.com/products/st-bnc/).  I can use this both on my IC-705 or a HT if I bring one for UHF/VHF.  I do sometimes do some UHF/VHF simplex depending on where I am.
  - A length of rope - just what I already had.  I use this most often to secure/elevate the feedpoint end of the EFHW I use - to a tree or a pole or whatever is around.
  - Two 5M lengths of co-axial cable, one RG-58 and one RG-316.  I tend to use the RG-58 almost exclusivley - just out of habit.  I always have two lengths of coax though just in case given the super light weight of carrying a spare.
+ - [KF8ASE QRP Choke with BNCs](https://www.etsy.com/au/listing/1903048443/messi-paoloni-ham-radio-rfi-chokes-for?ref=shop_home_feat_1&sr_prefetch=1&pf_from=shop_home&bes=1&sts=1&logging_key=7182907fe202d0a0753a461a1d13c4fe41307c6d%3A1903048443&variation0=5564173996)
  - [Heil BM-17 headset](https://heilhamradio.com/product/bm-17-2/) with a [Heil AD-1-iHT adapter](https://heilhamradio.com/product/ad-1-iht/).  When it's just me I use my headset.  It's been great for CW too.  If I'm out with someone else I'll switch back to the regular mic which I also carry.
  - An Arborist throw line.  I just got whatever was on sale on Amazon at the time I was looking.
  - [ICOM AH-705 Tuner](https://www.icom-australia.com/lineup/options/AH-705/) and control cables
