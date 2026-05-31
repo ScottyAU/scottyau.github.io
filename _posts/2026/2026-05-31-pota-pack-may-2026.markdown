@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "POTA Pack May 2026"
+date:   2026-05-31 12:00:00 +1000
+tags:   Amateur Radio
+---
+
+I've been meaning to write this post since the end of last year - as much for myself as for the handful of others who might see it.  I've talked a bit about how much I am enjoying the portable side of Amateur Radio - both [POTA](https://pota.app/) and [SOTA](https://www.sota.org.uk/).  I did my first couple of outings with other members from the [Brisbane Amateur Radio Club](https://barc.org.au/) using both their experience but also their gear to get on the air.  I pretty quickly started to put together my own portable kit around my Icom IC-705 and the earlier iterations had too much stuff.  Which meant more wreight to carry, and just more bulk.  I aim for an average of a park a week (and hit that in 2025) so I've had plenty of time to dial in my setup to what works for me.  I don't think this will ever be completly static - half the fun of Amateur Radio for me is the gear.  However the pack out in this post has been pretty stable now for about 12 months.  I've got a couple of photos of both (yes that's right deuce) setups and I'll list out what's in each.
+
+![POTA Pack May 2026 1](/images/POTA Pack May 2026 1.jpeg)
+
+This is my main POTA setup that has hands down done the vast majority of my activations.  Drive ups (and operating from my boot), walk ins and some pretty decent hikes!  It hasn't let me down yet and with a couple of optional extras I'll cover at the end is likley what I will stick with for a while yet.  This setup is built around my Icom IC-705 and ICOM LC-192 back pack that I got with my IC-705.  Most of it is pretty self explantory, I've added notes to a couple of items and links for most too.  From top left I have:
+
+ - [ICOM LC-192 Backpack](https://www.icom-australia.com/lineup/options/LC-192/)
+ - [ICOM IC-705](https://www.icom-australia.com/lineup/products/IC-705/)
+ - [Manfrotto PIXI Mini Tripod](https://www.manfrotto.com/global-uk/pixi-mini-tripod-black-mtpixi-b/)
+ - [Gerber Dime](https://www.gerbergear.com/en-us/shop/multi-tools/all-multi-tools/dime-black-30-000469n)
+ - Gerber Mini Folding Knife (this particular model doesn't seem current anymore and appears to have been replaced by [this one](https://www.gerbergear.com/en-us/shop/knives/all-knives/lst-mini-black-1074529))
+ - [Spare ICOM BP-272 Battery](https://www.icom-australia.com/lineup/options/BP-272/)
+ - [Apple Airtag](https://www.apple.com/au/airtag/)
+ - 2 x right angle BNC adapters and a couple of male/male female/female BNC connectors.  The right angle adapters can take strain off the connector on the IC-705 and/or be used with the Signal Stick to do UHF/VHF on the IC-705.  The connectors are "just in case" I need to join two cables etc.
+ - Pen and Paper as back up logging.  I really like  [Sharpie S-Gel pens](https://www.sharpie.com/pens/gel-pens/sharpie-s-gel-medium-point-0.7mm/SAP_2096134.html) and you can get them in multi packs at most supermarkets
+ - [Signal Stuff Signal Stick](https://signalstuff.com/products/st-bnc/).  I can use this both on my IC-705 or a HT if I bring one for UHF/VHF.  I do sometimes do some UHF/VHF simplex depending on where I am.
+ - A length of rope - just what I already had.  I use this most often to secure/elevate the feedpoint end of the EFHW I use - to a tree or a pole or whatever is around.
+ - Two 5M lengths of co-axial cable, one RG-58 and one RG-316.  I tend to use the RG-58 almost exclusivley - just out of habit.  I always have two lengths of coax though just in case given the super light weight of carrying a spare.
+ - [Heil BM-17 headset](https://heilhamradio.com/product/bm-17-2/) with a [Heil AD-1-iHT adapter](https://heilhamradio.com/product/ad-1-iht/).  When it's just me I use my headset.  It's been great for CW too.  If I'm out with someone else I'll switch back to the regular mic which I also carry.
+ - An Arborist throw line.  I just got whatever was on sale on Amazon at the time I was looking.
+ - [ICOM AH-705 Tuner](https://www.icom-australia.com/lineup/options/AH-705/) and control cables
+ - [UGREEN 100W powerbank with USB-C Power Delivery](https://www.amazon.com.au/UGREEN-25188-20000mAh-Power-Bank/dp/B0C3GTMX5M/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.xVgcOu-vHuKYK4z7lbZUtu7MMWjwY1EFE5OsP8BQ8m1hbYcNX1qLxDeM03gUfeTiAeamEN4KSofDlN-ALqZ5GpDuIf0E6nADgR2CWtlPtJFCiIFJD_1AM3ofKIQvZtAmoVMIBzbWQT-C4tgtWCshZ-kUgb2mb6gdZktq4AUlNnpDynM8OO4VUCN7qBR3OLisBQ8OiG4--Dl6U_l9v8jaz8tNsdI2Bf9ZQXfVaMbkeWEoHbGd8n6U-vu3VMu_t7N8cB8E0F6T2_UdQSahCNKCsMJ_2xzwEZ_RNPbF9JtZYtk.-04SqzI184Jh_Tyo07euchkRgpJdv7Cg4dsxBtC7iO0&dib_tag=se&keywords=ugreen+100w+battery&qid=1780215904&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1).  This is one of the changes I have made in the last 12 months - switching to this battery and a 15v USB-C PD trigger cable (below) instead of a larger LiPo Battery and associated cable.  It's been rock solid and can give me somewhere between 5-10 activations before I might need to think about charging it (depending on length and mode of operation).  It's smaller, lighter and can charge a phone or anything else I need it too in a pinch too.  I tried a 12v trigger cable but the IC-705 needs a higher voltage to do 10W so I moved up to a 15V and its been perfect.  
+ - [USB-C Power Delivery 15v trigger cable](https://www.amazon.com.au/dp/B0CFLMXG5P?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1)
+ - Silica gel pouch in the bag to absorb moisture
+ - Bamatech TP-III portable CW key, 3d printed case and cable.  Unfortunatley the maker of these key's went silent key last year and they are no longer available new.  They are hard to find second hand too as they don't seem to be sold very often.  While I now have a few paddles - this is one of my absolute favourites and lives in my POTA kit.
+ - [Mad Dog Coils Mutt Classic](https://maddogcoils.com.au/shop/ols/products/mdc-mutt-standard).  I have done almost all of my activations with this EFHW.  Marty makes amazing gear and this thing has been awesome.  I have a vertical I take sometimes and a couple of other EFHWs - but it's hard to go past this guy.  
+ - Some spare para cord
+ - [Garmin inReach Mini 2](https://www.garmin.com/en-GB/p/765374/)  I had this prior to POTA/SOTA etc for hiking and camping.  This guy always comes with me and is some easy peace of mind when I am out in the middle of no where with no reception (even if I do have a bag of radio gear - would be hard to set that up if I had a fall or something like that)
+ - Spare USB C cable for charging my iPhone, Garmin or anything else.
+ - [ICOM HM-243](https://www.icomjapan.com/lineup/options/HM-243/) normal mic for the IC-705
+
+ What's not pictured is my iPhone, I always log using [Ham2k Polo](https://polo.ham2k.com/).  I also have a [Haverford 10M squid pole](https://haverford.com.au/products/10m-telescopic-squid-pole?_pos=1&_sid=b77f99164&_ss=r).  I tend to use the throwline in a tree if I can - but beaches and some parks have meant the pole is required.  I also have a [Helinox Table One Hard Top](https://helinox.com.au/products/table-one-hard-top) and [Helinox Chair One](https://helinox.com.au/products/chair-one) that I also take depending on where and for how long I am going.  I've operated from the boot of my car if I can drive in, tables and benches, tree stumps etc.  The chair and table give me a nice platform to setup on and keep me and my gear off the ground and out of the sand etc:
+
+ ![POTA Pack May 2026 2](/images/POTA Pack May 2026 2.jpeg)
+
+You'll see above there is no amp in my gear - so all of my portable work has been 5-10 watts (ie QRP).  As for my second portable load out - it's based around the fact I can now do an ok-ish job of CW - to the point I have done CW only POTA activiations.  With that in mind and wanting something even more portable and to be able to travel with - late last year I bought an Elecraft KH1.  While not cheap they are amazing and ultra portable.  The kit below lives in my car and is with me all the time so I can get an activation in whenever between home, work and life in general.  
+
+![POTA Pack May 2026 3](/images/POTA Pack May 2026 3.jpeg)
+
+The kits includes:
+
+- [Elecraft KH1](https://elecraft.com/products/kh1-f)
+- I bought the edgewood package with all the bits.  I made my own radial from some brighter and easier to handle silicon coated wire
+- [Modified Pelican M40](https://tufteln.com/products/modified-pelican-m40-for-kh1) made by Tufteln
+- A pair of red JBL buds that have a small right angle 3.5mm adapter so they fit while the case is on and open
+- A capacitive touch paddle made by [K6ARK](https://k6ark.com/)  These are a little harder to get, but after my inital Elecraft paddle failed in the field on my first activation I wanted a spare/back up.  Elecraft service was amazing and I got a replacement for the failed factory paddle - this second K6ARK paddle is my back up.
+
+That's it - super tiny and water proof in the little modified M40 Pelican case.  You can see a size comparison below - noting the ICOM LC-192 backpack is actually pretty small too - it just looks big next to the KH1.  
+
+![POTA Pack May 2026 4](/images/POTA Pack May 2026 4.jpeg)
